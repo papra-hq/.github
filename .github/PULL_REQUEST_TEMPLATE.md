@@ -1,4 +1,4 @@
-<!-- DO NOT IGNORE THE TEMPLATE
+<!-- DO NOT IGNORE THIS MESSAGE
 
 Thank you for you contribution and for taking the time to submit a pull request!
 
@@ -6,7 +6,7 @@ Thank you for you contribution and for taking the time to submit a pull request!
 
 - Please be aware that vibe-coded contribution are **prohibited**.
 - We are human behind open source projects, trying hard to maintain and improve them.
-- Vibe-coded contributions tend to pollute the codebase and they drain a lot of time and energy from maintainers.
+- Vibe-coded contributions tend to pollute the codebase and they drain a lot of time and energy from maintainers to review and fix them.
 
 -> Vibe-coded PRs will be rejected, and repeated offenses may lead to a ban from contributing to our projects.
 
@@ -19,7 +19,3 @@ Thank you for you contribution and for taking the time to submit a pull request!
 -> Pull requests that introduce un-discussed features or changes may be rejected until the discussion has taken place.
 
 -->
-
-
-
-
