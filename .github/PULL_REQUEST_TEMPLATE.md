@@ -15,6 +15,7 @@ Thank you for you contribution and for taking the time to submit a pull request!
 - New features or changes should be discussed in an issue before being implemented.
 - Discussions help ensure that the proposed changes align with the project's vision and goals, and they allow for feedback and suggestions from the community.
 - Please create an issue to discuss your proposed changes before submitting a pull request.
+- Also note that an open issue does not mean that the requested feature or change will be accepted or we are willing to have it in the project.
 
 -> Pull requests that introduce un-discussed features or changes may be rejected until the discussion has taken place.
 
